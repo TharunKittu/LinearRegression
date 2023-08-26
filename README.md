@@ -1,4 +1,4 @@
-# LinearRegression
+# Logistic_Regression
 # project title : 
 predict the heart attack disease for organisation WHO. using machine learning algorithm rate of heart attack disease will increasing manner or decreasing manner
 # Problem Statement:
